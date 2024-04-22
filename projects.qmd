@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+**Data Analysis on Emergency Medical Service (EMS) Trauma Scene Time** - December 2023
+
+-   Analyzed Emergency Medical Service (EMS) Data to distinguish reasons that effect scene time after
+    ambulance arrives and leaves with patient, and whether some interactions positively affected in
+    decreasing scene time
+
+-   Analyzed by using Logistic Regression on R, Received highest grade from evaluators
+
+**Conference Presentation on "Discussion on the Comparative Analysis of Educational Effects Amongst Teachers in Schools"** - October 2023
+
+-   Presented at Asian Network for Quality (ANQ), Vietnam
+
+-   Constructed statistical models using data at schools with limited amount of students, to evaluate teachers using the idea of causal inference
+
+```{}
+```

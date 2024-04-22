@@ -1,0 +1,20 @@
+---
+title: "Yuki Urata"
+image: profile.jpeg
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yukiurt/
+    - icon: github
+      text: Gitgub
+      href: https://github.com/urt21
+---
+
+I am currently a first year of the Masters of Applied Statistics and Data Science program at University of California, Los Angeles (UCLA).
+
+[Resume](Resume_UCLA.pdf)
+
+```{}
+```

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yuki Urata",
+    "section": "",
+    "text": "I am currently a first year of the Masters of Applied Statistics and Data Science program at University of California, Los Angeles (UCLA).\nResume"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Analysis on Emergency Medical Service (EMS) Trauma Scene Time - December 2023\n\nAnalyzed Emergency Medical Service (EMS) Data to distinguish reasons that effect scene time after ambulance arrives and leaves with patient, and whether some interactions positively affected in decreasing scene time\nAnalyzed by using Logistic Regression on R, Received highest grade from evaluators\n\nConference Presentation on “Discussion on the Comparative Analysis of Educational Effects Amongst Teachers in Schools” - October 2023\n\nPresented at Asian Network for Quality (ANQ), Vietnam\nConstructed statistical models using data at schools with limited amount of students, to evaluate teachers using the idea of causal inference"
+  }
+]
